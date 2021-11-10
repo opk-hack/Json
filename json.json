@@ -28,5 +28,14 @@
     {"title":"Project in Python – Colour Detection using Pandas & OpenCV",
         "url":"https://data-flair.training/blogs/project-in-python-colour-detection/",
         "turiolurl":"PyhthonTurtiol",
-        "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/color-detection-python-project.gif"}
+        "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/color-detection-python-project.gif"},
+            
+    {"title":"Python Project – Music Genre Classification",
+        "url":"https://data-flair.training/blogs/python-project-music-genre-classification/",
+        "turiolurl":"PyhthonTurtiol",
+        "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/05/music-genre-classifier-model.jpg"},
+    {"title":"Sign Language Recognition Using Python and OpenCV",
+        "url":"https://data-flair.training/blogs/sign-language-recognition-python-ml-opencv/",
+        "turiolurl":"PyhthonTurtiol",
+        "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/09/file-structure.png"}
 ]
