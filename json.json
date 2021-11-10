@@ -1,17 +1,17 @@
 [
-    {"title":"Python",
-        "url":"Python.com",
+    {"title":"Image Classification – Deep Learning Project in Python with Keras",
+        "url":"https://data-flair.training/blogs/image-classification-deep-learning-project-python-keras/",
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/05/Image-classification-project.gif"},
     
-     {"title":"Python",
-        "url":"Python.com",
+     {"title":"Emojify – Create your own emoji with Deep Learning",
+        "url":"https://data-flair.training/blogs/create-emoji-with-deep-learning/",
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/06/create-emoji-with-deep-learning.gif"},
         
     
-    {"title":"Python",
-        "url":"Python.com",
+    {"title":"Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras",
+        "url":"https://data-flair.training/blogs/python-chatbot-project/",
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/Python-chatbot-project.gif"},
             
@@ -20,13 +20,13 @@
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/09/read-csv-python-project.png"},
         
-    {"title":"Python",
-        "url":"Python.com",
+    {"title":"Cartoonify an Image with OpenCV in Python",
+        "url":"https://data-flair.training/blogs/cartoonify-image-opencv-python/",
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/09/cartoonifier-save-image.png"},
         
-    {"title":"Python",
-        "url":"Python.com",
+    {"title":"Project in Python – Colour Detection using Pandas & OpenCV",
+        "url":"https://data-flair.training/blogs/project-in-python-colour-detection/",
         "turiolurl":"PyhthonTurtiol",
         "Imageurl":"https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/color-detection-python-project.gif"}
 ]
