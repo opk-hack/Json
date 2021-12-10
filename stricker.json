@@ -1,9 +1,33 @@
 [
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"},
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"},
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"},
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"},
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"},
-    {"Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets"}
+    {
+    "Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets/",
+    "identifier":"Master0",
+    "name":"Master0",
+    "publisher":"Tamil"
+    },
+    {
+        "Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets/",
+        "identifier":"Master1",
+        "name":"Master1",
+        "publisher":"Tamil"
+    },
+    {
+            "Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets/",
+            "identifier":"Master2",
+            "name":"Master2",
+            "publisher":"Tamil"
+    },
+    {
+            "Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets/",
+            "identifier":"Master3",
+            "name":"Master3",
+            "publisher":"Tamil"
+    },
+    {
+            "Downloadurl":"https://raw.githubusercontent.com/applicazza/whatsapp_stickers/master/example/assets/",
+            "identifier":"Master4",
+            "name":"Master4",
+            "publisher":"Tamil"
+    }
     
 ]
